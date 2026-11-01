@@ -1,5 +1,5 @@
 Parte B. Retos
-1. Enel main escribe new Vehiculo("XYZ999", 50). Copia el error y explica por qué ocurre.
+1. En el main escribe new Vehiculo("XYZ999", 50). Copia el error y explica por qué ocurre.
   Vehiculo is abstract; cannot be instantiated
   Las clases abstractas sirven como moldes generales y Java no permite crear objetos directamente de ellas con new.
 
